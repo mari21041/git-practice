@@ -1,3 +1,4 @@
 Name: Marianne
 Age: 34
-Favorite Color: Teal
+Favorite colour: Teal
+Favourite artist: Taylor Swift
